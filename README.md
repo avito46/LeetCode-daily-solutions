@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
