@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0039-combination-sum) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
