@@ -38,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0898-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
