@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0125-valid-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
