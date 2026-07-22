@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0039-combination-sum) |
+| [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0898-transpose-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
