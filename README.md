@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
