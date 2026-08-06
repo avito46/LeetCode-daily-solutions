@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0046-permutations) |
+| [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0898-transpose-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0898-transpose-matrix) |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1552-build-an-array-with-stack-operations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
