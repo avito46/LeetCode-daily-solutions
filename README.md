@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0050-powx-n) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/avito46/LeetCode-daily-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## String
 |  |
