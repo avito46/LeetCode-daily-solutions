@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/avito46/LeetCode-daily-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
