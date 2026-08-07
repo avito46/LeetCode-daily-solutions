@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0260-single-number-iii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0898-transpose-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
