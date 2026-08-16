@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0155-min-stack) |
 | [1552-build-an-array-with-stack-operations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 ## Dynamic Programming
 |  |
@@ -111,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
