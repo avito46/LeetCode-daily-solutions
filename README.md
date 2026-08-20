@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0937-online-stock-span) |
 | [1552-build-an-array-with-stack-operations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -129,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0937-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
