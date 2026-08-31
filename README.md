@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0231-power-of-two) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/avito46/LeetCode-daily-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## String
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
