@@ -18,7 +18,7 @@ void backtrack(string current, int open, int close, int n, vector<string>& resul
     {
         current.push_back(')');
         backtrack(current,open,close+1,n,result);
-        current.pop_back();
+        
     
     }
 }
