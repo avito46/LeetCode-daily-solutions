@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0046-permutations) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
