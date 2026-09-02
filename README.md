@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
