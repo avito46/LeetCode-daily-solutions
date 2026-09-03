@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0231-power-of-two) |
