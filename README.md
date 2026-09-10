@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0231-power-of-two) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -172,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1036-rotting-oranges) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
