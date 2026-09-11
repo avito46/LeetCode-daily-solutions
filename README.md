@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0342-power-of-four) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/avito46/LeetCode-daily-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## String
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
