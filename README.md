@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0141-linked-list-cycle) |
+| [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
 | ------- |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Bracket Sequences
 |  |
