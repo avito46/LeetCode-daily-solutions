@@ -186,9 +186,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1036-rotting-oranges](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1036-rotting-oranges) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
