@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Bracket Sequences
