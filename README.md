@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1036-rotting-oranges) |
 ## Simulation
