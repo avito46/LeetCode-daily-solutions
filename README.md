@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-build-an-array-with-stack-operations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/avito46/LeetCode-daily-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
