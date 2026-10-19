@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0036-valid-sudoku) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0038-count-and-say) |
@@ -223,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
