@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0090-subsets-ii) |
 ## Recursion
 |  |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0260-single-number-iii) |
