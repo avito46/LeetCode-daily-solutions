@@ -5,7 +5,7 @@ void pal(string &s,int i,vector<string>current,vector<vector<string>>&ans)
     if(i==s.length())
     {
      ans.push_back(current);
-     return;
+     
     }
     for(int j=i;j<s.length();j++)
     {
