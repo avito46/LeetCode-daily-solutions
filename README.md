@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0131-palindrome-partitioning) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
