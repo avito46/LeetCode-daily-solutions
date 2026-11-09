@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0036-valid-sudoku) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0061-rotate-list) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1019-squares-of-a-sorted-array) |
