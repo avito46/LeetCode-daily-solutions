@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1036-rotting-oranges) |
 ## Simulation
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
