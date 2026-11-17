@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0118-pascals-triangle) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0141-linked-list-cycle) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/avito46/LeetCode-daily-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -259,4 +262,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/avito46/LeetCode-daily-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
